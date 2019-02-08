@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+    <string name="hello_world">Hello Kotlin</string>
+    <string name="click_message">버튼이 눌렸습니다!!!</string>
+</resources>

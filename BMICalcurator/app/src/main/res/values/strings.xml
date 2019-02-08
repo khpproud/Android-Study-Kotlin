@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMICalcurator</string>
+    <string name="height">키</string>
+    <string name="weight">몸무게</string>
+    <string name="result">결과</string>
+    <string name="result_message">결과가 표시되는 곳</string>
+    <string name="very_high_grade">고도 비만</string>
+    <string name="high_grade_2">2단계 비만</string>
+    <string name="high_grade_1">1단계 비만</string>
+    <string name="over_weight">과체중</string>
+    <string name="normal">정상</string>
+    <string name="low_weight">저체중</string>
+</resources>
