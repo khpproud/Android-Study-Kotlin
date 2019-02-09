@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SlideGallery</string>
+    <string name="request_permission_text">사진 정보를 얻으려면 외부 저장소 권한이 필수로 필요합니다</string>
+    <string name="request_permission_title">권한 수락 요청</string>
+    <string name="request_rejected">권한 거부됨</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

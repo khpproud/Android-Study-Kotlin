@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyWebBrowser</string>
+    <string name="base_url">https://m.naver.com</string>
+    <string name="search_title">검색 사이트</string>
+    <string name="naver">네이버</string>
+    <string name="google">구글</string>
+    <string name="daum">다음</string>
+    <string name="infor">개발자 정보</string>
+    <string name="call">전화하기</string>
+    <string name="send_text">문자 보내기</string>
+    <string name="email">이메일 보내기</string>
+    <string name="google_url">https://google.com</string>
+    <string name="daum_url">https://m.daum.net</string>
+    <string name="share">페이지 공유</string>
+    <string name="base_browser">기본 브라우저에서 열기</string>
+</resources>
