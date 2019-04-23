@@ -32,7 +32,8 @@ class MainActivity : AppCompatActivity(), AnkoLogger {
         //doJSONParsing()
         //downloadFile()
         //recyclerList()
-        coroutines()
+        //coroutines()
+        preference()
     }
 
     // 서드파티 라이브러리 도움 없이 네트워크 통신 수행
@@ -174,6 +175,15 @@ class MainActivity : AppCompatActivity(), AnkoLogger {
 
         runBlocking {
             info("Result is $${one.await() + two.await()}")
+        }
+    }
+
+    // SharedPreferences 사용 간단한 예
+    private fun preference() {
+        prefs.username = "Hippo"
+        GlobalScope.launch {
+            delay(1000)
+            info("username : ${prefs.username}")
         }
     }
 }
