@@ -1,4 +1,4 @@
-import ch06.property.PKLevel;
+import ch06_property.PKLevel;
 
 public class PackageLevelAccess {
     public static void main(String[] args) {

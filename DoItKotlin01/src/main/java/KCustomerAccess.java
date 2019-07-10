@@ -1,5 +1,5 @@
-import ch06.property.KCustomer;
-import ch06.property.KJob;
+import ch06_property.KCustomer;
+import ch06_property.KJob;
 
 // KJob에 대한 접근 방법
 public class KCustomerAccess {
