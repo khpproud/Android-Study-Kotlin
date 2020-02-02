@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dffccf05-e684-44a3-b57b-20f60e25fe5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modernJavaInActionSample" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modernJavaInActionSample" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modernJavaInActionSample" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modernJavaInActionSample" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modernJavaInActionSample" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="io.reactivex.rxjava3:rxjava:3.0.0-RC8" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WNDApVhPuoTuvTrc7naeTtlSUe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin/chap10/dsl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/benchmarks/kotlin" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+      <recent name="$PROJECT_DIR$/src/main/resources/chap03" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="chap16" />
+      <recent name="chap11" />
+      <recent name="chap10.dsl" />
+      <recent name="chap09" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/benchmarks/kotlin" />
+      <recent name="$PROJECT_DIR$/src/main/resources/chap05" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean" />
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.appC.StreamForkerExKt">
+    <configuration name=" [clean]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="appA.AnnotationExKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="modernJavaInActionSample.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="appA.AnnotationExKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="appC.StreamForkerExKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="modernJavaInActionSample.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="appC.StreamForkerExKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chap19.CombinatorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="modernJavaInActionSample.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chap19.CombinatorsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chap19.PatternMatchingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="modernJavaInActionSample.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chap19.PatternMatchingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chap20.CurryingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="modernJavaInActionSample.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chap20.CurryingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle. [clean]" />
+      <item itemvalue="Kotlin.chap19.PatternMatchingKt" />
+      <item itemvalue="Kotlin.chap19.CombinatorsKt" />
+      <item itemvalue="Kotlin.chap20.CurryingKt" />
+      <item itemvalue="Kotlin.appA.AnnotationExKt" />
+      <item itemvalue="Kotlin.appC.StreamForkerExKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.appC.StreamForkerExKt" />
+        <item itemvalue="Kotlin.appA.AnnotationExKt" />
+        <item itemvalue="Kotlin.chap20.CurryingKt" />
+        <item itemvalue="Kotlin.chap19.CombinatorsKt" />
+        <item itemvalue="Kotlin.chap19.PatternMatchingKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dffccf05-e684-44a3-b57b-20f60e25fe5a" name="Default Changelist" comment="" />
+      <created>1578981017031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578981017031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579420425378">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1579420425378" />
+    <state x="502" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1580627544566">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="502" y="163" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1580627544566" />
+    <state x="408" y="183" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579670837884">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="408" y="183" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.834@0.23.1440.834" timestamp="1579670837884" />
+    <state x="418" y="99" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1580286054968">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="418" y="99" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1580286054968" />
+    <state width="1398" height="179" key="GridCell.Tab.0.bottom" timestamp="1580627910860">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="179" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1580627910860" />
+    <state width="1398" height="179" key="GridCell.Tab.0.center" timestamp="1580627910859">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="179" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1580627910859" />
+    <state width="1398" height="179" key="GridCell.Tab.0.left" timestamp="1580627910859">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="179" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1580627910859" />
+    <state width="1398" height="179" key="GridCell.Tab.0.right" timestamp="1580627910860">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="179" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1580627910860" />
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom" timestamp="1579439151604">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1579439151604" />
+    <state width="1398" height="268" key="GridCell.Tab.1.center" timestamp="1579439151603">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1579439151603" />
+    <state width="1398" height="268" key="GridCell.Tab.1.left" timestamp="1579439151602">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1579439151602" />
+    <state width="1398" height="268" key="GridCell.Tab.1.right" timestamp="1579439151603">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1579439151603" />
+    <state x="308" y="182" key="IDE.errors.dialog" timestamp="1580357153220">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="308" y="182" key="IDE.errors.dialog/0.23.1440.834@0.23.1440.834" timestamp="1580357153220" />
+    <state x="221" y="23" width="1024" height="834" key="SettingsEditor" timestamp="1580562932618">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="221" y="23" width="1024" height="834" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1580562932618" />
+    <state x="503" y="225" key="chooseDestDirectoryDialog" timestamp="1579526590450">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="503" y="225" key="chooseDestDirectoryDialog/0.23.1440.834@0.23.1440.834" timestamp="1579526590450" />
+    <state width="1440" height="834" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1579008774783">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1440" height="834" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.23.1440.834@0.23.1440.834" timestamp="1579008774783" />
+    <state x="397" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1580624103156">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="397" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.834@0.23.1440.834" timestamp="1580624103156" />
+    <state x="301" y="165" width="837" height="550" key="find.popup" timestamp="1578983023057">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="301" y="165" width="837" height="550" key="find.popup/0.23.1440.834@0.23.1440.834" timestamp="1578983023057" />
+    <state width="1281" height="500" key="javadoc.popup.new" timestamp="1580625316000">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1281" height="500" key="javadoc.popup.new/0.23.1440.834@0.23.1440.834" timestamp="1580625316000" />
+    <state x="482" y="78" key="refactoring.ChangeSignatureDialog" timestamp="1580553306060">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="482" y="78" key="refactoring.ChangeSignatureDialog/0.23.1440.834@0.23.1440.834" timestamp="1580553306060" />
+    <state x="385" y="200" width="670" height="675" key="run.anything.popup" timestamp="1579421096157">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="385" y="200" width="670" height="675" key="run.anything.popup/0.23.1440.834@0.23.1440.834" timestamp="1579421096157" />
+    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup" timestamp="1580627833810">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1580627833810" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/java_study/modernJava/source/ModernJavaInAction-master/src/main/java/modernjavainaction/chap10/dsl/MethodChainingOrderBuilder.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
